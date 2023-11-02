@@ -1,1 +1,1 @@
-This is file 2 = Commit B
+This is file 2 modified by Alice = Commit D
